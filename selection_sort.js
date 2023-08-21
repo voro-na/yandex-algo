@@ -21,4 +21,4 @@ let sort = (arr) =>{
     return answer
 }
 
-//console.log(sort([5,4, 1, 100, -100, 0]))
+console.log(sort([1,2,-10]))
